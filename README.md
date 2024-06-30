@@ -1,7 +1,7 @@
 # GUI Tool to Debloat Android Phones with ADB Shell
 This GUI tool will let you uninstall any apps incluing spyware/data selling/full of ads system apps without root.
 <p>
-  <img height="500" width="" src="screenshot.png">
+  <img height="500" width="" src="/assets/screenshot.png">
 </p>
 
 ## Usage
@@ -21,4 +21,4 @@ In my own experience removing launcher or gallery on MIUI phone messed up my thi
 Use at your own risk. 
 
 ## Demo
-![til](/demo.gif)
+![til](/assets/demo.gif)
